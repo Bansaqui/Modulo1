@@ -11,6 +11,11 @@
 
    <img src="./src/commit-modulo1.png" alt="imagen de la consola">
 
-2. ## Crear un repositorio en local
+2. ## Subir el repositorio a Git
 
-   -
+   - Vamos a la página de GitHub
+     [Visitar la web GitHub](https://github.com/)
+     Creamos un nuevo repositorio.
+     Le ponemos un nombre (Modulo1)
+     Copiamos la clave SSH una vez configurado.
+     <img src="./src/nuevo-repo.png" alt="Imagen de la copia">
