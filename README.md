@@ -60,4 +60,12 @@
 
 5. ## Hacer un merge
 
-   -
+   - Volvemos a la rama main: git checkout main
+
+   - Hacemos un merge: git merge development -m "mezclando"
+
+   - para ver si hay conflictos podemos hacer un git status
+
+   - Para resolver: cat fichero en conflicto o usar Visual studio Code que se mostrará con un signo de exclamación en rojo.
+
+   - Ya realizado elconflicto hacemos un git commit -am "Merge resuelto"
