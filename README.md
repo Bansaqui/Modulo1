@@ -48,4 +48,8 @@
 
    - Cambiamos con: git checkout development
 
-   -
+   -Hemos modificado el archivo NuevoReadme.
+
+   - añadimos al staging y hacemos commit: git add . y luego git commit -m "actualización del NuevoReadme
+
+   <img src="./content/git-log.png" alt="Imagen de la copia">
