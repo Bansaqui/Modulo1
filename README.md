@@ -41,3 +41,11 @@
 
    - Para subir los cambios: git push
    - pero antes debes de hacer esto: git push --set-upstream origin main para establecer relación entre la rama local y la remota
+
+4. ## Crear una rama
+
+   - Creamos la rama con: git branch development
+
+   - Cambiamos con: git checkout development
+
+   -
