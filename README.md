@@ -7,9 +7,10 @@
    - Abrimos la terminal Git Bash y usamos el comando: > $ cd ..
    - Una vez que estamos en la carpeta donde queremos crear la nueva usaremos el siguiente comando: > mkdir Modulo1
    - Ahora ingresamos (CD modulo1)
+   - Instalamos las dependencias: npm install y acontinuación un npm start para iniciar el proyecto.
    - Y por último realizamos un git init --- Luego lo pasamos a staging con git add .
 
-   <img src="./src/commit-modulo1.png" alt="imagen de la consola">
+   <img src="./content/commit-modulo1.png" alt="imagen de la consola">
 
 2. ## Subir el repositorio a Git
 
@@ -18,4 +19,4 @@
      Creamos un nuevo repositorio.
      Le ponemos un nombre (Modulo1)
      Copiamos la clave SSH una vez configurado.
-     <img src="./src/nuevo-repo.png" alt="Imagen de la copia">
+     <img src="./content/nuevo-repo.png" alt="Imagen de la copia">
