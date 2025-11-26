@@ -50,6 +50,14 @@
 
    -Hemos modificado el archivo NuevoReadme.
 
+   - verificamos donde estamos y las ramas que tenemos: git log --oneline --decorate --graph --all
+
+   - Tenemos a hacer un git push --set-upstream origin development para que github reconozca la rama.
+
    - añadimos al staging y hacemos commit: git add . y luego git commit -m "actualización del NuevoReadme
 
    <img src="./content/git-log.png" alt="Imagen de la copia">
+
+5. ## Hacer un merge
+
+   -
