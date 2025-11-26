@@ -33,4 +33,8 @@
 
 3. ## Hacer un commit y un push
 
+   - Añadiremos un archivo nuevo llamado "NuevoReadme.md"
+
+   - Lo pasamos al staging git add .
+
    -
