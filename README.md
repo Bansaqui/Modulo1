@@ -69,3 +69,8 @@
    - Para resolver: cat fichero en conflicto o usar Visual studio Code que se mostrará con un signo de exclamación en rojo.
 
    - Ya realizado elconflicto hacemos un git commit -am "Merge resuelto"
+
+   - Si queremos abortar los cambios:
+     git merge --abort
+
+   -
