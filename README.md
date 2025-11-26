@@ -73,4 +73,4 @@
    - Si queremos abortar los cambios:
      git merge --abort
 
-   -
+   - Hacemos git commit -am "hemos arreglado el error" y para finalizar : git push
