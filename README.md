@@ -37,7 +37,7 @@
 
    - Lo pasamos al staging git add .
 
-   -Creamos el commit: git commit -m "nuevo archivo Readme"
+   - Creamos el commit: git commit -m "nuevo archivo Readme"
 
    - Para subir los cambios: git push
    - pero antes debes de hacer esto: git push --set-upstream origin main para establecer relación entre la rama local y la remota
@@ -48,7 +48,7 @@
 
    - Cambiamos con: git checkout development
 
-   -Hemos modificado el archivo NuevoReadme.
+   - Hemos modificado el archivo NuevoReadme.
 
    - verificamos donde estamos y las ramas que tenemos: git log --oneline --decorate --graph --all
 
